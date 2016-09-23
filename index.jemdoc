@@ -5,7 +5,7 @@
 = Virag Shah - Home Page
 ==
 ~~~
-{}{img_left}{Virag.jpg}{alt text}{260px}{300px}{IMGLINKTARGET}
+{}{img_left}{Virag2.jpg}{alt text}{260px}{300px}{IMGLINKTARGET}
 Postdoctoral Researcher \n
 [http://www.msr-inria.fr/ Microsoft Research - Inria Joint Center] \n
 Palaiseau, France \n
@@ -19,4 +19,4 @@ I am currently a postdoc researcher at Microsoft Research – Inria Joint center
 
 == Research Interests
 
-I am interested in Performance modeling for cloud computing and content delivery systems. Recently, I have also been exploring problems at the intersection of machine learning and queueing. 
+I am interested in performance modeling for cloud computing and content delivery systems. Recently, I have also been exploring problems at the intersection of machine learning and queueing. 
