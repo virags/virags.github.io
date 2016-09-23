@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU.txt}{index.html}
+# jemdoc: analytics{UA-58526643-1}
+# jemdoc: notime
+# jemdoc: nodate
+= Virag Shah - Home Page
+==
+~~~
+{}{img_left}{Virag2.jpg}{alt text}{156px}{180px}
+Postdoctoral Researcher \n
+[http://www.msr-inria.fr/ Microsoft Research - Inria Joint Center] \n
+Palaiseau, France \n
+E-mail: [virag.shah@inria.fr]
+~~~
+==
+\n
+I am currently a postdoc researcher at Microsoft Research – Inria Joint center in Palaiseau (Paris area), France
+
+
+
+== Research Interests
+
+I am interested in performance modeling for cloud computing and content delivery systems. Recently, I have also been exploring problems at the intersection of machine learning and queueing. 
