@@ -4,19 +4,51 @@
 = Publications
 ==
 
-== Thesis
+== PhD Thesis
 
-- Here
+- [papers/Thesis.pdf Centralized Content Delivery Infrastructure Exploiting Resource Pools: Performance Models and Asymptotics] \n Advisor: Gustavo de Veciana. The University of Texas at Austin, August 2015. 
 
 == Journal publications
 
-- 1
-- 2
+- [papers/Asymptotic_Independence.pdf Asymptotic Independence of Servers’ Utilization in Queueing Systems with Limited Resource Pooling,]  V. Shah and G. de Veciana,  QUESTA, 83(1):13-28, June 2016.
 
-== Conference publications
+- [papers/FairnessAndHeterogeneity.pdf Impact of Fairness and Heterogeneity on Delays in Large-scale Centralized Content Delivery Systems,] QUESTA, 83(3): 361-397, August 2016.
 
-- 1 
+- [papers/TON15_PerfModels.pdf High Performance Centralized Content Delivery Infrastructure: Models and Asymptotics,] V. Shah and G. de Veciana, IEEE/ACM Trans. on Networking (ToN) 23(5):1674--87, October 2015. 
 
-- 2 
 
+- [papers/SDK16.pdf A Stable Approach for Routing Queries in Unstructured P2P Network,] V. Shah and G. de Veciana, IEEE/ACM Trans. on Networking (ToN), January 2016.  
+
+- [papers/JSAC13_NetworkFlows.pdf Network Flows for Function Computation,]  V. Shah, D. Manjunath, and B. K. Dey, IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on In-Network Computation 31(4):714—730, April 2013.   
+
+- [papers/Tcom_10.pdf Optimal Timer Based Selection Schemes,]   V. Shah, N. B. Mehta, and R. Yim, IEEE Trans. On Communications 58(6):1814-1832, June 2010.   
+
+- [papers/TWC10.pdf Splitting Algorithms for Fast Decentralized Cooperative Relay Selection: Generalizations, Analysis, and a Unified View,]  V. Shah, N. B. Mehta, and R. Yim, IEEE Trans. On Wireless Communications 9(4):1525-1535, April 2010. 
+
+- [papers/TWC10_tradeoffs.pdf The Relay Selection and Transmission Tradeoff in Cooperative Communication Systems,]  V. Shah, N. B. Mehta, and R. Yim, IEEE Trans. On Wireless Communications 9(8):2505-2515, August 2010.  PDF
+
+
+== Refereed conference publications
+
+- [papers/Sigmetrics15.pdf On Impact of Fairness and Heterogeneity on Delays in Large-scale Content Delivery Networks,] Virag Shah and Gustavo de Veciana, Sigmetrics 2015, Portland, Oregon.  
+
+- [papers/Infocom14.pdf Performance Evaluation and Asymptotics for Content Delivery Networks,]  Virag Shah and Gustavo de Veciana, Infocom 2014, Toronto, Ontario, Canada. *Best Paper Award* 
+
+- [papers/Infocom12_backpressure.pdf Learning to Route Queries in Unstructured P2P Networks: Achieving Throughput Optimality Subject to Query Resolution Constraints,]  Virag Shah, Gustavo de Veciana, and George Kesidis, Infocom 2012, Orlando, Florida.
+
+- [papers/ISIT11_NetFlows.pdf Network Flows for Functions,]  Virag Shah, Bikash Dey, D. Manjunath, ISIT 2011, St. Petersburg, Russia. 
+
+- [papers/Globecom11_NetFlows.pdf Efficient Flow Allocation Algorithms for In-Network Function Computation,]  Virag Shah, Bikash Dey, D. Manjunath, Globecom 2011, Houston, USA.
+
+- [papers/ICC10.pdf A Complete Characterization of an Optimal Timer Based Selection Scheme,]  Virag Shah, Neelesh B. Mehta, and Raymond Yim, IEEE International Conference on Communications (ICC) 2010, Cape Town, South Africa. 
+
+- [papers/NCC10.pdf On Optimal Timer-Based Distributed Selection For Rate-Adaptive Multi-user Diversity Systems,] Ananda Theertha S., Neelesh B. Mehta, and Virag Shah, National Conference on Communications (NCC) 2010, Chennai, India. *Best Paper Award*
+
+- [papers/Globecom09.pdf The Relay Selection and Data Transmission Throughput Tradeoff in Cooperative Systems,]  Virag Shah, Neelesh B. Mehta, and Raymond Yim, IEEE Globecom 2009, Hawaii, USA.
+
+
+- [papers/NCC09.pdf Fast Distributed Multiple Access Based Selection with Imperfect Parameter Knowledge,]  Virag Shah, Dilip Bethanabhotla, and Neelesh B. Mehta, National Conference on Communications (NCC) 2009, Guwahati, India.
+
+
+- [papers/ICC09.pdf Analysis, Insights and Generalization of a Fast Decentralized Relay Selection Mechanisms,] Virag Shah, Neelesh B. Mehta, and Raymond Yim, International Conference on Communications (ICC) 2009, Dresden, Germany. 
 
