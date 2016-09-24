@@ -1,22 +1,15 @@
-# jemdoc: menu{MENU.txt}{index.html}
-# jemdoc: analytics{UA-58526643-1}
+# jemdoc: menu{MENU.txt}{awards.html}
 # jemdoc: notime
 # jemdoc: nodate
-= Virag Shah - Home Page
+= Awards
 ==
-~~~
-{}{img_left}{Virag2.jpg}{alt text}{156px}{180px}
-Postdoctoral Researcher \n
-[http://www.msr-inria.fr/ Microsoft Research - Inria Joint Center] \n
-Palaiseau, France \n
-E-mail: [virag.shah@inria.fr]
-~~~
-==
-\n
-I am currently a postdoc researcher at Microsoft Research – Inria Joint center in Palaiseau (Paris area), France
+
+== IEEE INFOCOM 2014 Best Paper Award at Toronto, Canada. 
+
+IEEE INFOCOM is a top conference in the field of communications and networks. In INFOCOM 2014, ours was one of the two papers selected for the award from over 1600 papers submitted, and 313 papers accepted to the conference. The title of the paper is ”Performance Evaluation and Asymptotics for Content Delivery Networks”. It was coauthored with Gustavo de Veciana at The University of Texas at Austin.
+
+== NCC 2010 Best Paper Award in Communications track at IIT Madras, India. 
+
+About 250 papers were submitted and 105 accepted to NCC (National Conference on Communications) 2010. The title of the paper is “On Optimal Timer-Based Distributed Selection For Rate-Adaptive Multi-user Diversity Systems”. It was coauthored with Ananda Theertha S. (now at UC San Diego) and Neelesh B. Mehta at IISc, Bangalore.
 
 
-
-== Research Interests
-
-I am interested in performance modeling for cloud computing and content delivery systems. Recently, I have also been exploring problems at the intersection of machine learning and queueing. 

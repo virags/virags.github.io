@@ -1,0 +1,15 @@
+[bodyend]
+<center>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WvV9IDkyFwP1RVO55gX6GwiEQXg" width="640" height="480"></iframe>
+</center>
+<center>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cRgcE3inKhadjXJv1IwroMRhmxo" width="640" height="480"></iframe>
+</center>
+</body>
+</html>
+
+
+<div style="width: 100%; overflow: hidden;">
+    <div style="width: 600px; float: left;"> Left </div>
+    <div style="margin-left: 620px;"> Right </div>
+</div>

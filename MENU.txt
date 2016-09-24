@@ -1,5 +1,8 @@
-Home 
+Virag Shah 
 
-	Main [index.html]
-	Awards [awards.htm]
-	
+	Home [index.html]
+	Awards [awards.html]
+	Publications [publications.html]
+	Biography [biography.html]
+	CV [CV.pdf]
+	Travel [travel.html]
