@@ -11,11 +11,8 @@ Palaiseau, France \n
 E-mail: [virag.shah@inria.fr]
 ~~~
 ==
-\n
-I am currently a postdoc researcher at Microsoft Research – Inria Joint center in Palaiseau (Paris area), France
 
+== Research Interests 
+One of my main research interests is to identify fundamental resource bottlenecks in cloud computing/content delivery infrastructure and design algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would be less wasteful than as they are today. 
 
-
-== Research Interests
-
-I am interested in performance modeling for cloud computing and content delivery systems. Recently, I have also been exploring problems at the intersection of machine learning and queueing. 
+Recently, I am also exploring alternate paradigms for machine learning, with particular focus on applications which interact dynamically with human consumers, eg, crowdsourcing, online Q&A platforms, hiring platforms, etc. The aim is to design an automated framework which efficiently learns (and `unlearns’) the evolving patterns. 
