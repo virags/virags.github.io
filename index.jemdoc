@@ -13,6 +13,6 @@ E-mail: virag dot shah at inria dot fr
 ==
 
 == Research Interests 
-One of my main research interests is to identify fundamental resource bottlenecks in cloud computing/content delivery infrastructure and design algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would be less wasteful than as they are today. 
+One of my main research interests is to identify fundamental resource bottlenecks in cloud computing/content delivery infrastructure and design algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would become less wasteful than as they are today. 
 
 Recently, I am also exploring alternate paradigms for machine learning, with particular focus on applications which interact dynamically with human consumers, eg., online Q&A platforms, crowdsourcing, hiring platforms, etc. The aim is to design an automated framework which efficiently learns (and `unlearns’) the evolving patterns. 
