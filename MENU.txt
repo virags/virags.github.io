@@ -3,5 +3,5 @@ Virag Shah
 	Home [index.html]
 	Awards [awards.html]
 	Publications [publications.html]
-	CV [CV.pdf]
+	CV [Virag_CV.pdf]
 	Travel [travel.html]
