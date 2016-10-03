@@ -8,13 +8,16 @@ The two maps below show the countries that I have visited or lived in, and some 
 
 ~~~
 {}{raw}
-
+<div style="width: 100%; display: table;">
+    <div style="display: table-row">
+        <div style="width: 700px; display: table-cell;">
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WvV9IDkyFwP1RVO55gX6GwiEQXg" width="640" height="480"></iframe>
-~~~
-\n
-~~~
-{}{raw}
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cRgcE3inKhadjXJv1IwroMRhmxo&"  width="640" height="480"></iframe>
+</div>
+<div style="width: 100%; display: table-cell;">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cRgcE3inKhadjXJv1IwroMRhmxo&z=2” width="640" height="480"></iframe>
+</div>
+</div>
+</div>
 ~~~
 
 

@@ -4,7 +4,7 @@
 = Virag Shah
 ==
 ~~~
-{}{img_left}{Virag2.jpg}{alt text}{156px}{180px}
+{}{img_left}{Virag2.jpg}{alt text}{182px}{210px}
 Postdoctoral Researcher \n
 [http://www.msr-inria.fr/ Microsoft Research - Inria Joint Center] \n
 Palaiseau, France \n
@@ -13,6 +13,14 @@ E-mail: virag dot shah at inria dot fr
 ==
 
 == Research Interests 
-One of my main research interests is to identify fundamental resource bottlenecks in cloud computing/content delivery infrastructure and design algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would become less wasteful than as they are today. 
+One of my main research interests is to identify fundamental resource bottlenecks in cloud computing/content delivery infrastructure and design algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would become less wasteful than as they are today.  
 
 Recently, I am also exploring alternate paradigms for machine learning, with particular focus on applications which interact dynamically with human consumers, eg., online Q&A platforms, crowdsourcing, hiring platforms, etc. The aim is to design an automated framework which efficiently learns (and `unlearns’) the evolving patterns. 
+
+
+To get a flavor of my work and interests, here is a talk in which I show that significant gains can be achieved by pooling of server resources in centralized content delivery systems. The talk was given at [https://www.lincs.fr/ LINCS] lab in Paris.
+
+~~~
+{}{raw}
+<div style="float:right; margin:0px 0px 15px 15px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/UrjC3l_xUNo" frameborder="0" allowfullscreen></iframe></div>
+~~~
