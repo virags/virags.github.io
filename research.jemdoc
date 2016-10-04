@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU.txt}{research.html}
+# jemdoc: notime
+# jemdoc: nodate
+= Research
+
+
+My main research focus is to identify fundamental resource bottlenecks in cloud computing/content delivery infrastructure and design algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would become less wasteful than as they are today.  
+
+Recently, I am also exploring alternate paradigms for machine learning, with particular focus on applications which interact dynamically with human consumers, eg., online Q&A platforms, crowdsourcing, hiring platforms, etc. The aim is to design an automated framework which efficiently learns (and `unlearns’) the evolving patterns. 
+
+
+Below is a talk in which I show that significant gains can be achieved by pooling of server resources in centralized content delivery systems. The talk was given at [https://www.lincs.fr/ LINCS] lab in Paris.
+
+~~~
+{}{raw}
+<div style="float:right; margin:0px 0px 15px 15px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/UrjC3l_xUNo" frameborder="0" allowfullscreen></iframe></div>
+~~~
