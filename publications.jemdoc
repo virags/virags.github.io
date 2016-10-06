@@ -8,29 +8,29 @@
 
 == Submitted works
 
-- Leveraging Coding and Data Dissemination in Cloud Clusters, V. Shah, A. Bouillard, F. Baccelli, 2016
+- Leveraging Coding and Data Dissemination in Cloud Clusters, Virag Shah, Anne Bouillard, Francois Baccelli, 2016
 
-- [https://arxiv.org/pdf/1610.00560v1.pdf Poly-Symmetry in Processor-Sharing Networks,] T. Bonald, C. Comte, V. Shah, G. de Veciana, 2016
+- [https://arxiv.org/pdf/1610.00560v1.pdf Poly-Symmetry in Processor-Sharing Networks,] Thomas Bonald, Celine Comte, Virag Shah, Gustavo de Veciana, 2016
 
 
 == Journal publications
 
-- [papers/Asymptotic_Independence.pdf Asymptotic Independence of Servers’ Utilization in Queueing Systems with Limited Resource Pooling,]  V. Shah and G. de Veciana,  QUESTA, 83(1):13-28, June 2016.
+- [papers/Asymptotic_Independence.pdf Asymptotic Independence of Servers’ Utilization in Queueing Systems with Limited Resource Pooling,]  Virag Shah and Gustavo de Veciana,  QUESTA, 83(1):13-28, June 2016.
 
 
-- [papers/SDK16.pdf A Stable Approach for Routing Queries in Unstructured P2P Network,] V. Shah and G. de Veciana, IEEE/ACM Trans. on Networking (ToN), January 2016.  
+- [papers/SDK16.pdf A Stable Approach for Routing Queries in Unstructured P2P Network,] Virag Shah, Gustavo de Veciana and George Kesidis, IEEE/ACM Trans. on Networking (ToN), January 2016.  
 
-- [papers/FairnessAndHeterogeneity.pdf Impact of Fairness and Heterogeneity on Delays in Large-scale Centralized Content Delivery Systems,] QUESTA, 83(3): 361-397, August 2016.
+- [papers/FairnessAndHeterogeneity.pdf Impact of Fairness and Heterogeneity on Delays in Large-scale Centralized Content Delivery Systems,] Virag Shah and Gustavo de Veciana, QUESTA, 83(3): 361-397, August 2016.
 
-- [papers/TON15_PerfModels.pdf High Performance Centralized Content Delivery Infrastructure: Models and Asymptotics,] V. Shah and G. de Veciana, IEEE/ACM Trans. on Networking (ToN) 23(5):1674--87, October 2015. 
+- [papers/TON15_PerfModels.pdf High Performance Centralized Content Delivery Infrastructure: Models and Asymptotics,] Virag Shah and Gustavo de Veciana,, IEEE/ACM Trans. on Networking (ToN) 23(5):1674--87, October 2015. 
 
-- [papers/JSAC13_NetworkFlows.pdf Network Flows for Function Computation,]  V. Shah, D. Manjunath, and B. K. Dey, IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on In-Network Computation 31(4):714—730, April 2013.   
+- [papers/JSAC13_NetworkFlows.pdf Network Flows for Function Computation,]  Virag Shah, D. Manjunath, and Bikash K. Dey, IEEE Journal on Selected Areas in Communications (JSAC) Special Issue on In-Network Computation 31(4):714—730, April 2013.   
 
-- [papers/Tcom_10.pdf Optimal Timer Based Selection Schemes,]   V. Shah, N. B. Mehta, and R. Yim, IEEE Trans. On Communications 58(6):1814-1832, June 2010.   
+- [papers/Tcom_10.pdf Optimal Timer Based Selection Schemes,]   Virag Shah, Neelesh B. Mehta, and R. Yim, IEEE Trans. On Communications 58(6):1814-1832, June 2010.   
 
-- [papers/TWC10.pdf Splitting Algorithms for Fast Decentralized Cooperative Relay Selection: Generalizations, Analysis, and a Unified View,]  V. Shah, N. B. Mehta, and R. Yim, IEEE Trans. On Wireless Communications 9(4):1525-1535, April 2010. 
+- [papers/TWC10.pdf Splitting Algorithms for Fast Decentralized Cooperative Relay Selection: Generalizations, Analysis, and a Unified View,]  Virag Shah, Neelesh B. Mehta, and Raymond Yim, IEEE Trans. On Wireless Communications 9(4):1525-1535, April 2010. 
 
-- [papers/TWC10_tradeoffs.pdf The Relay Selection and Transmission Tradeoff in Cooperative Communication Systems,]  V. Shah, N. B. Mehta, and R. Yim, IEEE Trans. On Wireless Communications 9(8):2505-2515, August 2010.  PDF
+- [papers/TWC10_tradeoffs.pdf The Relay Selection and Transmission Tradeoff in Cooperative Communication Systems,]  Virag Shah, Neelesh B. Mehta, and Raymond Yim, IEEE Trans. On Wireless Communications 9(8):2505-2515, August 2010.  PDF
 
 
 == Refereed conference publications
@@ -41,7 +41,7 @@
 
 - [papers/Infocom12_backpressure.pdf Learning to Route Queries in Unstructured P2P Networks: Achieving Throughput Optimality Subject to Query Resolution Constraints,]  Virag Shah, Gustavo de Veciana, and George Kesidis, Infocom 2012, Orlando, Florida.
 
-- [papers/ISIT11_NetFlows.pdf Network Flows for Functions,]  Virag Shah, Bikash Dey, D. Manjunath, ISIT 2011, St. Petersburg, Russia. 
+- [papers/ISIT11_NetFlows.pdf Network Flows for Functions,]  Virag Shah, Bikash K. Dey, D. Manjunath, ISIT 2011, St. Petersburg, Russia. 
 
 - [papers/Globecom11_NetFlows.pdf Efficient Flow Allocation Algorithms for In-Network Function Computation,]  Virag Shah, Bikash Dey, and D. Manjunath, Globecom 2011, Houston, USA.
 
