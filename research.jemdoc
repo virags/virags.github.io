@@ -21,7 +21,7 @@ Here is a talk in which I show that significant gains can be achieved in central
 == New paradigms for Machine Learning 
 Recently, I have also been exploring alternate paradigms for machine learning, with particular focus on applications which interact dynamically with human consumers, eg., online Q&A platforms, crowdsourcing, hiring platforms, etc. The aim is to design an agile framework which efficiently learns (and `unlearns’) the evolving patterns. 
 
-Classical machine learning algorithms for such applications estimate parameters such as interests, demands, capabilities, etc.\ of human consumers from the data collected in the past. Such algorithms are often `frozen in time’ in that in that view the parameters as being static while making decisions. 
+Classical machine learning algorithms for such applications estimate parameters such as interests, demands, capabilities, etc.\ of human consumers from the data collected in the past. Such algorithms are often `frozen in time’ in that they view the parameters as being static while making decisions. 
 
 Instead, we use queues to track histories of different users. We let the gradients obtained via queue lengths drive the decision making. Since queues are inherently dynamic, such an approach could be more suitable for above applications. 
 
