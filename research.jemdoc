@@ -26,7 +26,7 @@ Classical machine learning algorithms for such applications estimate parameters 
 Instead, we use queues to track histories of different users. We let the gradients obtained via queue lengths drive the decision making. Since queues are inherently dynamic, such an approach could be more suitable for above applications. 
 
 == Applied Queueing Theory
-Ever since the field of queueing theory began in 1909 with the [https://web.archive.org/web/20111001212934/http://oldwww.com.dtu.dk/teletraffic/erlangbook/pps131-137.pdf work of A. K. Erlang] motivated by telephone systems, the questions raised by engineering applications such as telecom networks, control, operations, etc have provided significant impetus to queueing theory and in turn to the theory of applied probability. I believe that the fields of cloud computing and machine learning also have a lot to offer to queueing theory, and vice versa. 
+Ever since the field of queueing theory began in 1909 with the [https://web.archive.org/web/20111001212934/http://oldwww.com.dtu.dk/teletraffic/erlangbook/pps131-137.pdf work of A. K. Erlang] motivated by telephone systems, the questions raised by engineering applications such as telecom networks, control systems, operations, etc have provided significant impetus to queueing theory and in turn to the theory of applied probability. I believe that the fields of cloud computing and machine learning also have a lot to offer to queueing theory, and vice versa. 
 
 
 
