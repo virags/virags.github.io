@@ -6,6 +6,13 @@
 
 - [papers/Thesis.pdf Centralized Content Delivery Infrastructure Exploiting Resource Pools: Performance Models and Asymptotics] \n Advisor: Gustavo de Veciana. The University of Texas at Austin, August 2015. 
 
+== Submitted works
+
+- Leveraging Coding and Data Dissemination in Cloud Clusters, V. Shah, A. Bouillard, F. Baccelli, 2016
+
+- [https://arxiv.org/pdf/1610.00560v1.pdf Poly-Symmetry in Processor-Sharing Networks,] T. Bonald, C. Comte, V. Shah, G. de Veciana, 2016
+
+
 == Journal publications
 
 - [papers/Asymptotic_Independence.pdf Asymptotic Independence of Servers’ Utilization in Queueing Systems with Limited Resource Pooling,]  V. Shah and G. de Veciana,  QUESTA, 83(1):13-28, June 2016.
@@ -36,7 +43,7 @@
 
 - [papers/ISIT11_NetFlows.pdf Network Flows for Functions,]  Virag Shah, Bikash Dey, D. Manjunath, ISIT 2011, St. Petersburg, Russia. 
 
-- [papers/Globecom11_NetFlows.pdf Efficient Flow Allocation Algorithms for In-Network Function Computation,]  Virag Shah, Bikash Dey, D. Manjunath, Globecom 2011, Houston, USA.
+- [papers/Globecom11_NetFlows.pdf Efficient Flow Allocation Algorithms for In-Network Function Computation,]  Virag Shah, Bikash Dey, and D. Manjunath, Globecom 2011, Houston, USA.
 
 - [papers/ICC10.pdf A Complete Characterization of an Optimal Timer Based Selection Scheme,]  Virag Shah, Neelesh B. Mehta, and Raymond Yim, IEEE International Conference on Communications (ICC) 2010, Cape Town, South Africa. 
 
