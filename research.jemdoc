@@ -18,17 +18,12 @@ interactions of diverse jobs on user performance as the system’s size and load
  
 Here is a talk in which I show that significant gains can be achieved in centralized content delivery systems via a combination of pooling of server resources and fairness based load balancing. The talk was given at [https://www.lincs.fr/ LINCS] lab in Paris. 
 
-== Active Matching Algorithms for Two Sided Markets
-Recently, I have been exploring resource allocation problems for two sided markets, focusing on applications where humans are involved in providing better solutions to jobs, eg., online Q&A platforms, crowdsourcing, hiring platforms, etc. The goal is to ensure efficient utilization of the valuable human resources. This requires an agile framework which efficiently learns (and `unlearns’) the evolving patterns of the interests and skills of the human experts to match them to right jobs
+== Active learning for Online Matching Markets
+Recently, I have been exploring resource allocation problems for two sided markets, focusing on applications where humans are involved in providing better solutions to jobs, eg., online Q&A platforms, crowdsourcing, hiring platforms, etc. The goal is to ensure efficient utilization of the valuable human resources. This requires an agile framework which efficiently learns the evolving patterns of the interests and skills of the human experts to match them to right jobs
 
 
 Classical machine learning algorithms for such applications estimate parameters such as interests, demands, capabilities, etc.\ of human consumers from the data collected in the past. Such algorithms are often `frozen in time’ in that they view the parameters as being static while making decisions. 
 Instead, we use queues to track histories of different users. We let the gradients obtained via queue lengths drive the decision making. Since queues are inherently dynamic, such an approach could be more suitable for above applications. 
-
-== Applied Queueing Theory
-The models I use for researching above applications draw heavily from the field of Queueing Theory. Often the engineering questions of my interest require pushing boundaries of queueing theory itself. 
-
-In fact, ever since the theory began in 1909 with the [https://web.archive.org/web/20111001212934/http://oldwww.com.dtu.dk/teletraffic/erlangbook/pps131-137.pdf work of A. K. Erlang] motivated by telephone systems, the questions raised by engineering applications such as telecom networks, control systems, operations, etc have provided significant impetus to its progress. Similarly, I believe that the field of queueing theory and those of cloud computing and machine learning applications have a lot to offer to each other. For us researchers in these fields, we have exciting times ahead of us!
 
 
 
