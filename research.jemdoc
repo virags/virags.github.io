@@ -22,7 +22,7 @@ Here is a talk in which I show that significant gains can be achieved in central
 Recently, I have been developing online recommendation algorithms for job-worker matching platforms and Q&A platforms. A key feature of these applications is making decision under uncertainty in job types and expert parameters. These need to be learned over time, in parallel with matching decisions. 
 
 
-Further, these applications involve recommending tasks to human experts. Works in crowd sourcing has appreciated that if humans are involved then efficient utilization of these resources is important, and several works are devoted to this. Most crowdsourcing works the final goal is optimizing error in labeling tasks. However, in matching platforms the goal is to optimize the reward from matching. Intuitively, explorations helps in learning the job types and expert parameters, but they also consume a part of expert resources. We design active learning algorithms which optimally balances this tradeoff to achieve maximum rewards. 
+Further, these applications involve recommending tasks to human experts. Works in crowd sourcing has appreciated that if humans are involved then efficient utilization of the expert resources is important, and several works are devoted to this. In most crowdsourcing works the final goal is to optimize error in labeling tasks. However, in matching platforms the goal is to optimize the overall rewards obtained from matching, eg, maximizing the rate of successful hires in job-worker matching platforms. Intuitively, explorations helps in learning the job types and expert parameters, but they also consume a part of expert resources. We design active learning algorithms which optimally balances this tradeoff to achieve maximum rewards. 
 
 
 
