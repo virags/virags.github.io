@@ -23,17 +23,16 @@
 <h1>Research</h1>
 <h2>Cloud Computing and Content Delivery Infrastructure</h2>
 <div style="float:right; margin:0px 0px 15px 15px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/UrjC3l_xUNo" frameborder="0" allowfullscreen></iframe></div>
-<p>My main research focus is to identify fundamental resource bottlenecks in cloud computing and content delivery infrastructure, and to design algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would become less wasteful than as they are today. </p>
+<p>My research involves identifying fundamental resource bottlenecks in cloud computing and content delivery infrastructure, and designing algorithms which optimally use these constrained resources. The goal is that, eventually, cloud resource consumption practices would become less wasteful than as they are today. </p>
 <p>A key challenge in these systems is to understand the impact of dynamic 
 interactions of diverse jobs on user performance as the system’s size and load scale. A better understanding here allows us to design better algorithms which scale well under stochastic loads. This is a chicken and egg problem. Algorithms impact system dynamics, which we study in order to design new algorithms, and so on, until everything falls into place. </p>
 <p>Here is a talk in which I show that significant gains can be achieved in centralized content delivery systems via a combination of pooling of server resources and fairness based load balancing. The talk was given at <a href="https://www.lincs.fr/">LINCS</a> lab in Paris.</p>
-<h2>Active learning for Online Matching Markets</h2>
-<p>Recently, I have been exploring resource allocation problems for two sided markets, focusing on applications where humans are involved in providing better solutions to jobs, eg., online Q&amp;A platforms, crowdsourcing, hiring platforms, etc. The goal is to ensure efficient utilization of the valuable human resources. This requires an agile framework which efficiently learns the evolving patterns of the interests and skills of the human experts to match them to right jobs</p>
-<p>Classical machine learning algorithms for such applications estimate parameters such as interests, demands, capabilities, etc. of human consumers from the data collected in the past. Such algorithms are often &lsquo;frozen in time’ in that they view the parameters as being static while making decisions. 
-Instead, we use queues to track histories of different users. We let the gradients obtained via queue lengths drive the decision making. Since queues are inherently dynamic, such an approach could be more suitable for above applications. </p>
+<h2>Active learning in Online Matching Markets</h2>
+<p>Recently, I have been developing online recommendation algorithms for job-worker matching platforms and Q&amp;A platforms. A key feature of these applications is making decision under uncertainty in job types and expert parameters. These need to be learned over time, in parallel with matching decisions. </p>
+<p>Further, these applications involve recommending tasks to human experts. Works in crowd sourcing has appreciated that if humans are involved then efficient utilization of these resources is important, and several works are devoted to this. Most crowdsourcing works the final goal is optimizing error in labeling tasks. However, in matching platforms the goal is to optimize the reward from matching. Intuitively, explorations helps in learning the job types and expert parameters, but they also consume a part of expert resources. We design active learning algorithms which optimally balances this tradeoff to achieve maximum rewards. </p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2017-04-26 16:30:51 CEST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2017-04-26 16:49:51 CEST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
