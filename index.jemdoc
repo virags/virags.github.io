@@ -3,17 +3,18 @@
 ==
 ~~~
 {}{img_left}{Virag2.jpg}{alt text}{182px}{210px}
-Postdoctoral Researcher \n
-[http://www.msr-inria.fr/ Microsoft Research - Inria Joint Center] \n
-Palaiseau, France \n
-virag.shah@inria.fr
+Postdoctoral Scholar \n
+Stanford University \n
+virag@stanford.edu
 ~~~
 ==
 
 == About Me
-Starting Jan 2016, I am Postdoctoral Researcher at [http://www.msr-inria.fr Microsoft Research - Inria Joint center], hosted by [http://www.msr-inria.fr/researchers/laurent-massoulie/ Dr. Laurent Massoulie], [http://www.di.ens.fr/~lelarge/ Dr. Marc Lelarge], and [http://research.microsoft.com/en-us/people/milanv/ Dr. Milan Vojnovic].
+I am a Postdoctoral Scholar at [http://www.stanford.edu Stanford University] with [web.stanford.edu/~rjohari/ Ramesh Johari ] and [https://profiles.stanford.edu/blanchet Jose Blanchet]. 
 
-Prior to this, I was Simons Postdoctoral Fellow at [http://www.utexas.edu/ The University of Texas at Austin] hosted by [http://www.ma.utexas.edu/users/baccelli/ Prof. Francois Baccelli] in Fall of 2015.
+Prior to this, I am Postdoctoral Researcher at [http://www.msr-inria.fr Microsoft Research - Inria Joint center], hosted by [http://www.msr-inria.fr/researchers/laurent-massoulie/ Dr. Laurent Massoulie], [http://www.di.ens.fr/~lelarge/ Dr. Marc Lelarge], and [http://research.microsoft.com/en-us/people/milanv/ Dr. Milan Vojnovic], from Jan 2016 to July 2017.
+
+Before that, I was Simons Postdoctoral Fellow at [http://www.utexas.edu/ The University of Texas at Austin] hosted by [http://www.ma.utexas.edu/users/baccelli/ Prof. Francois Baccelli] in Fall of 2015.
 
 I obtained my PhD at [http://www.utexas.edu/ The University of Texas at Austin] in August 2015 under supervision of [http://users.ece.utexas.edu/~gustavo/ Prof. Gustavo de Veciana]. 
 
@@ -21,5 +22,6 @@ I have also held research positions at [https://www.bell-labs.com/ Bell Labs] Ne
 
 == Research Summary 
 
-- Active learning in online matching markets
+- Design online matching markets
+- Machine learning applications
 - Algorithm design for scalable cloud computing systems
